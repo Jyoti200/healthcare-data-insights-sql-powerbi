@@ -42,4 +42,35 @@ This project presents an in-depth analysis of healthcare data from **55,500 uniq
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+![Dashboard Screenshot] ![image](https://github.com/user-attachments/assets/65dcb98f-c757-47af-9ba0-5b7bbf888ac8)
+
+
+## 📊 Insights
+
+- **Obesity** and **Cancer** were among the top diagnoses.
+- Patients aged **50+** represented the largest age group across all hospitals and diseases.
+- **Emergency admissions** led to significantly higher costs and longer stays.
+- **Insurance Provider MediCare** covered the most patients but had below-average outcomes.
+- For all hospitals, the average stay was 15 days.
+- The majority of hospital admissions were for **female patients (50%)**, followed by **male patients (40%)**. **Non-binary** individuals accounted for approximately 10% of the admissions, indicating inclusive data collection practices across hospitals.
+- The most expensive treatment across all hospitals was **Cancer**.
+---
+
+## ▶️ How to View
+
+1. Clone the repo
+2. Open `dashboard.pbix` in Power BI Desktop
+3. Explore the dashboard and interact with filters
+4. Review SQL queries in the `/queries` folder
+
+---
+
+## 👩‍💻 Author
+
+**Jyoti Vyas**  
+---
+
+## 📄 License
+
+This project is for **educational and portfolio** purposes only.
+
